@@ -1,0 +1,127 @@
+body, div, h1, h2, h3, h4, p, ul, img, aside {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	background: #ebe8e8;
+}
+
+header {
+	background-color: #676666;
+	padding-left: 10px;
+	height: 290px;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto; 
+}
+
+nav {
+	font-style: bold;
+	font-size: 30pt;
+
+}
+
+.menu {
+	list-style: none;
+	padding-top: 20px;
+	display: block;
+
+}
+
+.menu li {
+	float: left;
+	padding-left: 30px;
+	padding-right: 65px;
+	display: inline;
+
+}
+
+.menu li a {
+	text-decoration: none;
+	
+}
+
+.content {
+	width: 510px;
+	float: left;
+
+}
+
+.content h2 {
+	font-size: 36px;
+	color: red;
+
+}
+
+.news {
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
+.news h3 {
+	padding-bottom: 20px;
+
+}
+
+aside {
+	float: left;
+	margin-left: 55px;
+	margin-top: 35px;
+	background: #d4d6d3;
+	border: 1px solid;
+	padding: 0 15px 15px 15px;
+
+}
+
+aside ul {
+	list-style: none;
+
+}
+
+aside h3 {
+	color: #044055;
+	font-weight: normal;
+	padding-top: 10px;
+
+}
+
+aside a {
+	font-size: 14px;
+	color: #393838;
+
+}
+
+footer {
+	float: left;
+	width: 100%;
+	background-color: black;
+	color: white;
+	padding: 20px 10px;
+	margin-top: 30px;
+
+}
+
+button {
+	color: #393838;
+	padding: 10px 10px;
+	margin: auto;
+	width: 150px;
+	margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
